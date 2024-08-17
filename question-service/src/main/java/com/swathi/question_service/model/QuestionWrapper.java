@@ -12,5 +12,5 @@ import java.util.List;
 public class QuestionWrapper {
     private Integer id;
     private String questionTitle;
-    private List<Option> options;
+    private List<String> options;
 }
